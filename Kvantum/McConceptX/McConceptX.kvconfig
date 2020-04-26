@@ -74,7 +74,7 @@ shadowless_popup=false
 
 [GeneralColors]
 window.color=#323232    
-base.color=#191919
+base.color=#232323
 alt.base.color=#2e2e2e
 button.color=#4d4d4d
 light.color=#535353
@@ -116,6 +116,7 @@ middle_click_scroll=false
 opaque_colors=false
 kinetic_scrolling=false
 scroll_jump_workaround=false
+centered_forms=false
 
 [PanelButtonCommand]
 frame=true
