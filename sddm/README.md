@@ -1,5 +1,5 @@
 
-McConceptX sddm theme for KDE Plasma desktop.
+WinSur-dark sddm theme for KDE Plasma desktop.
 
 ## Installation
 

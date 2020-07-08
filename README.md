@@ -1,6 +1,6 @@
-## McConceptX KDE Theme
+## WinSur-dark KDE Theme
 
-McConceptX kde is a light clean theme for KDE Plasma desktop.
+WinSur-dark kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 

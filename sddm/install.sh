@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cp -ur McConceptX /usr/share/sddm/themes
+cp -ur WinSur-dark /usr/share/sddm/themes
 
 echo "Install finished..."
