@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="translucentbackground.svg"
    id="svg177"
    viewBox="0 0 121 56"
@@ -33,12 +33,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="30"
      inkscape:window-x="0"
-     inkscape:cy="23.958342"
-     inkscape:cx="18.422476"
+     inkscape:cy="26.106414"
+     inkscape:cx="51.887666"
      inkscape:zoom="10.074811"
      showgrid="false"
      id="namedview179"
-     inkscape:window-height="975"
+     inkscape:window-height="970"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -47,7 +47,7 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#326464" />
   <defs
      id="defs30">
     <linearGradient
@@ -493,7 +493,7 @@
        width="6"
        height="32"
        id="rect42"
-       style="color:#eff0f1;opacity:0.35;fill:#000000" />
+       style="color:#eff0f1;opacity:0.2;fill:#000000;fill-opacity:1" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        x="-910.35999"
@@ -520,7 +520,7 @@
        id="path55"
        transform="translate(0,904.36)"
        d="m 19,6 c -3.324,0 -6,2.676 -6,6 h 4 1 1 V 11 7 Z"
-       style="color:#eff0f1;opacity:0.35;fill:#000000"
+       style="color:#eff0f1;opacity:0.2;fill:#000000;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -534,7 +534,7 @@
        width="6"
        height="32"
        id="rect69"
-       style="color:#eff0f1;opacity:0.35;fill:#000000" />
+       style="color:#eff0f1;opacity:0.2;fill:#000000;fill-opacity:1" />
     <rect
        transform="rotate(90)"
        x="954.35999"
@@ -555,7 +555,7 @@
        width="6"
        height="32"
        id="rect96"
-       style="color:#eff0f1;opacity:0.35;fill:#000000" />
+       style="color:#eff0f1;opacity:0.2;fill:#000000;fill-opacity:1" />
     <rect
        transform="scale(-1,1)"
        x="-13"
@@ -575,7 +575,7 @@
        width="6"
        height="32"
        id="rect101"
-       style="color:#eff0f1;opacity:0.35;fill:#000000" />
+       style="color:#eff0f1;opacity:0.2;fill:#000000;fill-opacity:1" />
     <rect
        x="57"
        y="916.35999"
@@ -601,7 +601,7 @@
        width="32"
        height="32"
        id="rect108"
-       style="color:#eff0f1;opacity:0.35;fill:#000000" />
+       style="color:#eff0f1;opacity:0.2;fill:#000000;fill-opacity:1" />
   </g>
   <rect
      height="12"
@@ -634,7 +634,7 @@
      id="hint-left-margin"
      style="fill:#ff00ff" />
   <g
-     style="opacity:0.25"
+     style="opacity:0.1"
      id="shadow-top"
      transform="translate(58,-904.36)">
     <rect
@@ -663,7 +663,7 @@
        style="fill:none" />
   </g>
   <g
-     style="opacity:0.25"
+     style="opacity:0.1"
      id="shadow-bottom"
      transform="translate(58,-904.36)">
     <rect
@@ -692,7 +692,7 @@
        style="fill:none" />
   </g>
   <g
-     style="opacity:0.25"
+     style="opacity:0.1"
      id="shadow-left"
      transform="translate(58,-904.36)">
     <rect
@@ -721,7 +721,7 @@
        style="fill:none" />
   </g>
   <g
-     style="opacity:0.25"
+     style="opacity:0.1"
      id="shadow-right"
      transform="translate(58,-904.36)">
     <rect
@@ -818,7 +818,7 @@
      y="0"
      x="0" />
   <g
-     style="opacity:0.25"
+     style="opacity:0.1"
      transform="translate(58,-904.36218)"
      id="shadow-topleft">
     <path

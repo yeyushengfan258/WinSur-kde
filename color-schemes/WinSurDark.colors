@@ -48,7 +48,7 @@ ForegroundVisited=30,130,255
 
 [Colors:Selection]
 BackgroundAlternate=79,127,239
-BackgroundNormal=80,80,80
+BackgroundNormal=30,130,255
 DecorationFocus=255,255,255
 DecorationHover=255,255,255
 ForegroundActive=252,252,252
@@ -76,7 +76,7 @@ ForegroundVisited=127,140,141
 
 [Colors:View]
 BackgroundAlternate=48,48,48
-BackgroundNormal=20,20,20
+BackgroundNormal=30,30,30
 DecorationFocus=30,130,255
 DecorationHover=30,130,255
 ForegroundActive=30,130,255
@@ -90,7 +90,7 @@ ForegroundVisited=120,120,120
 
 [Colors:Window]
 BackgroundAlternate=66,66,66
-BackgroundNormal=30,30,30
+BackgroundNormal=40,40,40
 DecorationFocus=30,130,255
 DecorationHover=30,130,255
 ForegroundActive=30,130,255

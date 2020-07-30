@@ -7,32 +7,33 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="tabbar.svg"
-   width="500"
-   height="300"
+   id="svg119"
    version="1.1"
-   id="svg119">
+   height="300"
+   width="500"
+   sodipodi:docname="tabbar.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <sodipodi:namedview
-     inkscape:current-layer="svg119"
-     inkscape:window-maximized="1"
-     inkscape:window-y="32"
-     inkscape:window-x="0"
-     inkscape:cy="104.09211"
-     inkscape:cx="307.38232"
-     inkscape:zoom="3.0547013"
-     showgrid="false"
-     id="namedview90"
-     inkscape:window-height="1022"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#626262"
      bordercolor="#666666"
-     pagecolor="#626262" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="970"
+     id="namedview90"
+     showgrid="false"
+     inkscape:zoom="8.64"
+     inkscape:cx="376.45315"
+     inkscape:cy="128.62258"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg119" />
   <metadata
      id="metadata125">
     <rdf:RDF>
@@ -41,547 +42,583 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs123" />
   <g
-     id="north-active-tab-top"
-     transform="matrix(.8125 0 0 .83333 290.56 -685.63)">
+     transform="matrix(.8125 0 0 .83333 290.56 -685.63)"
+     id="north-active-tab-top">
     <rect
-       class="ColorScheme-Background"
-       transform="matrix(0,-1,-1,0,0,0)"
+       style="opacity:0.2"
+       id="rect2"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="-51"
        x="-916.36"
-       y="-51"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect2" />
+       transform="matrix(0,-1,-1,0,0,0)"
+       class="ColorScheme-Background" />
   </g>
   <g
-     id="north-active-tab-topleft"
-     transform="matrix(.41667 0 0 .41667 294.58 -306.32)">
+     transform="matrix(.41667 0 0 .41667 294.58 -306.32)"
+     id="north-active-tab-topleft">
     <path
-       d="m25 910.36c-6.648 0-12 5.352-12 12h12v-10z"
-       fill="#fff"
+       style="opacity:0.2"
+       id="path5"
        opacity=".15"
-       id="path5" />
+       fill="#fff"
+       d="m25 910.36c-6.648 0-12 5.352-12 12h12v-10z" />
   </g>
   <g
-     id="north-active-tab-topright"
-     transform="matrix(.41667 0 0 .41667 314.25 -306.32)">
+     transform="matrix(.41667 0 0 .41667 314.25 -306.32)"
+     id="north-active-tab-topright">
     <path
-       d="m45 910.36v12h12c0-6.648-5.352-12-12-12z"
-       fill="#fff"
+       style="opacity:0.2"
+       id="path8"
        opacity=".15"
-       id="path8" />
+       fill="#fff"
+       d="m45 910.36v12h12c0-6.648-5.352-12-12-12z" />
   </g>
   <g
-     id="north-active-tab-bottom"
-     transform="matrix(.8125 0 0 .82944 290.56 -686.61)">
+     transform="matrix(.8125 0 0 .82944 290.56 -686.61)"
+     id="north-active-tab-bottom">
     <rect
-       class="ColorScheme-Background"
-       transform="rotate(90)"
+       style="opacity:0.2"
+       id="rect11"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="-51"
        x="948.36"
-       y="-51"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect11" />
+       transform="rotate(90)"
+       class="ColorScheme-Background" />
   </g>
   <g
-     id="north-active-tab-bottomleft"
-     transform="matrix(.41667 0 0 .41667 294.58 -292.65)">
+     transform="matrix(.41667 0 0 .41667 294.58 -292.65)"
+     id="north-active-tab-bottomleft">
     <path
-       d="m13 942.36c0 6.648 5.352 12 12 12v-12h-10z"
-       fill="#fff"
+       style="opacity:0.2"
+       id="path14"
        opacity=".15"
-       id="path14" />
+       fill="#fff"
+       d="m13 942.36c0 6.648 5.352 12 12 12v-12h-10z" />
   </g>
   <g
-     id="north-active-tab-bottomright"
-     transform="matrix(.41667 0 0 .41667 314.25 -292.65)">
+     transform="matrix(.41667 0 0 .41667 314.25 -292.65)"
+     id="north-active-tab-bottomright">
     <path
-       d="m45 942.36v12c6.648 0 12-5.352 12-12h-10z"
-       fill="#fff"
+       style="opacity:0.2"
+       id="path17"
        opacity=".15"
-       id="path17" />
+       fill="#fff"
+       d="m45 942.36v12c6.648 0 12-5.352 12-12h-10z" />
   </g>
   <g
-     id="north-active-tab-left"
-     transform="matrix(.83333 0 0 .625 289.17 -493.73)">
+     transform="matrix(.83333 0 0 .625 289.17 -493.73)"
+     id="north-active-tab-left">
     <rect
-       class="ColorScheme-Background"
-       transform="scale(-1,1)"
+       style="opacity:0.2"
+       id="rect20"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="916.36"
        x="-19"
-       y="916.36"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect20" />
+       transform="scale(-1,1)"
+       class="ColorScheme-Background" />
   </g>
   <g
-     id="north-active-tab-right"
-     transform="matrix(.83333 0 0 .625 290.5 -493.73)">
+     transform="matrix(.83333 0 0 .625 290.5 -493.73)"
+     id="north-active-tab-right">
     <rect
-       class="ColorScheme-Background"
-       x="51"
-       y="916.36"
-       width="6"
-       height="32"
-       fill="#fff"
+       style="opacity:0.2"
+       id="rect23"
        opacity=".15"
-       id="rect23" />
+       fill="#fff"
+       height="32"
+       width="6"
+       y="916.36"
+       x="51"
+       class="ColorScheme-Background" />
   </g>
   <rect
-     id="north-active-tab-center"
-     class="ColorScheme-Background"
-     x="306"
+     style="opacity:0.2"
+     opacity=".15"
+     fill="#fff"
+     height="20"
+     width="26"
      y="79"
-     width="26"
-     height="20"
-     fill="#fff"
-     opacity=".15" />
-  <rect
-     id="hint-tile-center"
-     x="45"
-     y="120"
-     width="42"
-     height="42"
-     fill="#008000"
-     opacity=".875"
-     stroke-width="1.0184" />
-  <rect
-     id="north-focus-hint-right-margin"
-     transform="scale(-1)"
-     x="-338"
-     y="-90"
-     width="5"
-     height="2"
-     fill="#4e9a06" />
-  <rect
-     id="north-focus-hint-left-margin"
-     transform="scale(-1)"
-     x="-305"
-     y="-90"
-     width="5"
-     height="2"
-     fill="#4e9a06" />
-  <rect
-     id="north-focus-hint-bottom-margin"
-     transform="scale(-1)"
-     x="-320"
-     y="-105"
-     width="2"
-     height="5"
-     fill="#4e9a06" />
-  <rect
-     id="north-focus-hint-top-margin"
-     transform="scale(-1)"
-     x="-320"
-     y="-78"
-     width="2"
-     height="5"
-     fill="#4e9a06" />
-  <g
-     id="south-active-tab-top"
-     transform="matrix(.81258 0 0 .83333 290.56 -575.63)">
-    <rect
-       class="ColorScheme-Background"
-       transform="matrix(0,-1,-1,0,0,0)"
-       x="-916.36"
-       y="-51"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect32" />
-  </g>
-  <g
-     id="south-active-tab-topleft"
-     transform="matrix(.41667 0 0 .41667 294.58 -196.32)">
-    <path
-       d="m25 910.36c-6.648 0-12 5.352-12 12h12v-10z"
-       fill="#fff"
-       opacity=".15"
-       id="path35" />
-  </g>
-  <g
-     id="south-active-tab-topright"
-     transform="matrix(.41667 0 0 .41667 314.25 -196.32)">
-    <path
-       d="m45 910.36v12h12c0-6.648-5.352-12-12-12z"
-       fill="#fff"
-       opacity=".15"
-       id="path38" />
-  </g>
-  <g
-     id="south-active-tab-bottom"
-     transform="matrix(.8125 0 0 .83333 290.56 -580.3)">
-    <rect
-       class="ColorScheme-Background"
-       transform="rotate(90)"
-       x="948.36"
-       y="-51"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect41" />
-  </g>
-  <g
-     id="south-active-tab-bottomleft"
-     transform="matrix(.41667 0 0 .41667 294.58 -182.65)">
-    <path
-       d="m13 942.36c0 6.648 5.352 12 12 12v-12h-10z"
-       fill="#fff"
-       opacity=".15"
-       id="path44" />
-  </g>
-  <g
-     id="south-active-tab-bottomright"
-     transform="matrix(.41667 0 0 .41667 314.25 -182.65)">
-    <path
-       d="m45 942.36v12c6.648 0 12-5.352 12-12h-10z"
-       fill="#fff"
-       opacity=".15"
-       id="path47" />
-  </g>
-  <g
-     id="south-active-tab-left"
-     transform="matrix(.83333 0 0 .625 289.17 -383.73)">
-    <rect
-       class="ColorScheme-Background"
-       transform="scale(-1,1)"
-       x="-19"
-       y="916.36"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect50" />
-  </g>
-  <g
-     id="south-active-tab-right"
-     transform="matrix(.83333 0 0 .625 290.5 -383.73)">
-    <rect
-       class="ColorScheme-Background"
-       x="51"
-       y="916.36"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect53" />
-  </g>
-  <rect
-     id="south-active-tab-center"
-     class="ColorScheme-Background"
      x="306"
-     y="189"
-     width="26"
-     height="20"
-     fill="#fff"
-     opacity=".15" />
+     class="ColorScheme-Background"
+     id="north-active-tab-center" />
   <rect
-     id="south-focus-hint-right-margin"
-     transform="scale(-1)"
+     stroke-width="1.0184"
+     opacity=".875"
+     fill="#008000"
+     height="42"
+     width="42"
+     y="120"
+     x="45"
+     id="hint-tile-center" />
+  <rect
+     fill="#4e9a06"
+     height="2"
+     width="5"
+     y="-90"
      x="-338"
-     y="-200"
-     width="5"
-     height="2"
-     fill="#4e9a06" />
-  <rect
-     id="south-focus-hint-left-margin"
      transform="scale(-1)"
+     id="north-focus-hint-right-margin" />
+  <rect
+     fill="#4e9a06"
+     height="2"
+     width="5"
+     y="-90"
      x="-305"
+     transform="scale(-1)"
+     id="north-focus-hint-left-margin" />
+  <rect
+     fill="#4e9a06"
+     height="5"
+     width="2"
+     y="-105"
+     x="-320"
+     transform="scale(-1)"
+     id="north-focus-hint-bottom-margin" />
+  <rect
+     fill="#4e9a06"
+     height="5"
+     width="2"
+     y="-78"
+     x="-320"
+     transform="scale(-1)"
+     id="north-focus-hint-top-margin" />
+  <g
+     transform="matrix(.81258 0 0 .83333 290.56 -575.63)"
+     id="south-active-tab-top">
+    <rect
+       style="opacity:0.2"
+       id="rect32"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="-51"
+       x="-916.36"
+       transform="matrix(0,-1,-1,0,0,0)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(.41667 0 0 .41667 294.58 -196.32)"
+     id="south-active-tab-topleft">
+    <path
+       style="opacity:0.2"
+       id="path35"
+       opacity=".15"
+       fill="#fff"
+       d="m25 910.36c-6.648 0-12 5.352-12 12h12v-10z" />
+  </g>
+  <g
+     transform="matrix(.41667 0 0 .41667 314.25 -196.32)"
+     id="south-active-tab-topright">
+    <path
+       style="opacity:0.2"
+       id="path38"
+       opacity=".15"
+       fill="#fff"
+       d="m45 910.36v12h12c0-6.648-5.352-12-12-12z" />
+  </g>
+  <g
+     transform="matrix(.8125 0 0 .83333 290.56 -580.3)"
+     id="south-active-tab-bottom">
+    <rect
+       style="opacity:0.2"
+       id="rect41"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="-51"
+       x="948.36"
+       transform="rotate(90)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(.41667 0 0 .41667 294.58 -182.65)"
+     id="south-active-tab-bottomleft">
+    <path
+       style="opacity:0.2"
+       id="path44"
+       opacity=".15"
+       fill="#fff"
+       d="m13 942.36c0 6.648 5.352 12 12 12v-12h-10z" />
+  </g>
+  <g
+     transform="matrix(.41667 0 0 .41667 314.25 -182.65)"
+     id="south-active-tab-bottomright">
+    <path
+       style="opacity:0.2"
+       id="path47"
+       opacity=".15"
+       fill="#fff"
+       d="m45 942.36v12c6.648 0 12-5.352 12-12h-10z" />
+  </g>
+  <g
+     transform="matrix(.83333 0 0 .625 289.17 -383.73)"
+     id="south-active-tab-left">
+    <rect
+       style="opacity:0.2"
+       id="rect50"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="916.36"
+       x="-19"
+       transform="scale(-1,1)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(.83333 0 0 .625 290.5 -383.73)"
+     id="south-active-tab-right">
+    <rect
+       style="opacity:0.2"
+       id="rect53"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="916.36"
+       x="51"
+       class="ColorScheme-Background" />
+  </g>
+  <rect
+     style="opacity:0.2"
+     opacity=".15"
+     fill="#fff"
+     height="20"
+     width="26"
+     y="189"
+     x="306"
+     class="ColorScheme-Background"
+     id="south-active-tab-center" />
+  <rect
+     fill="#4e9a06"
+     height="2"
+     width="5"
      y="-200"
-     width="5"
-     height="2"
-     fill="#4e9a06" />
-  <rect
-     id="south-focus-hint-bottom-margin"
+     x="-338"
      transform="scale(-1)"
-     x="-320"
+     id="south-focus-hint-right-margin" />
+  <rect
+     fill="#4e9a06"
+     height="2"
+     width="5"
+     y="-200"
+     x="-305"
+     transform="scale(-1)"
+     id="south-focus-hint-left-margin" />
+  <rect
+     fill="#4e9a06"
+     height="5"
+     width="2"
      y="-215"
-     width="2"
-     height="5"
-     fill="#4e9a06" />
-  <rect
-     id="south-focus-hint-top-margin"
-     transform="scale(-1)"
      x="-320"
+     transform="scale(-1)"
+     id="south-focus-hint-bottom-margin" />
+  <rect
+     fill="#4e9a06"
+     height="5"
+     width="2"
      y="-188"
-     width="2"
-     height="5"
-     fill="#4e9a06" />
+     x="-320"
+     transform="scale(-1)"
+     id="south-focus-hint-top-margin" />
   <g
-     id="west-active-tab-top"
-     transform="matrix(.8125 0 0 .83333 209.56 -627.63)">
+     transform="matrix(.8125 0 0 .83333 209.56 -627.63)"
+     id="west-active-tab-top">
     <rect
-       class="ColorScheme-Background"
-       transform="matrix(0,-1,-1,0,0,0)"
+       style="opacity:0.2"
+       id="rect61"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="-51"
        x="-916.36"
-       y="-51"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect61" />
+       transform="matrix(0,-1,-1,0,0,0)"
+       class="ColorScheme-Background" />
   </g>
   <g
-     id="west-active-tab-topleft"
-     transform="matrix(.41667 0 0 .41667 213.58 -248.32)">
+     transform="matrix(.41667 0 0 .41667 213.58 -248.32)"
+     id="west-active-tab-topleft">
     <path
-       d="m25 910.36c-6.648 0-12 5.352-12 12h12v-10z"
-       fill="#fff"
+       style="opacity:0.2"
+       id="path64"
        opacity=".15"
-       id="path64" />
+       fill="#fff"
+       d="m25 910.36c-6.648 0-12 5.352-12 12h12v-10z" />
   </g>
   <g
-     id="west-active-tab-topright"
-     transform="matrix(.41667 0 0 .41667 233.25 -248.32)">
+     transform="matrix(.41667 0 0 .41667 233.25 -248.32)"
+     id="west-active-tab-topright">
     <path
-       d="m45 910.36v12h12c0-6.648-5.352-12-12-12z"
-       fill="#fff"
+       style="opacity:0.2"
+       id="path67"
        opacity=".15"
-       id="path67" />
+       fill="#fff"
+       d="m45 910.36v12h12c0-6.648-5.352-12-12-12z" />
   </g>
   <g
-     id="west-active-tab-bottom"
-     transform="matrix(.8125 0 0 .83334 209.56 -632.3)">
+     transform="matrix(.8125 0 0 .83334 209.56 -632.3)"
+     id="west-active-tab-bottom">
     <rect
-       class="ColorScheme-Background"
-       transform="rotate(90)"
+       style="opacity:0.2"
+       id="rect70"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="-51"
        x="948.36"
-       y="-51"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect70" />
+       transform="rotate(90)"
+       class="ColorScheme-Background" />
   </g>
   <g
-     id="west-active-tab-bottomleft"
-     transform="matrix(.41667 0 0 .41666 213.58 -234.64)">
+     transform="matrix(.41667 0 0 .41666 213.58 -234.64)"
+     id="west-active-tab-bottomleft">
     <path
-       d="m13 942.36c0 6.648 5.352 12 12 12v-12h-10z"
-       fill="#fff"
+       style="opacity:0.2"
+       id="path73"
        opacity=".15"
-       id="path73" />
+       fill="#fff"
+       d="m13 942.36c0 6.648 5.352 12 12 12v-12h-10z" />
   </g>
   <g
-     id="west-active-tab-bottomright"
-     transform="matrix(.41667 0 0 .41667 233.25 -234.65)">
+     transform="matrix(.41667 0 0 .41667 233.25 -234.65)"
+     id="west-active-tab-bottomright">
     <path
-       d="m45 942.36v12c6.648 0 12-5.352 12-12h-10z"
-       fill="#fff"
+       style="opacity:0.2"
+       id="path76"
        opacity=".15"
-       id="path76" />
+       fill="#fff"
+       d="m45 942.36v12c6.648 0 12-5.352 12-12h-10z" />
   </g>
   <g
-     id="west-active-tab-left"
-     transform="matrix(.83333 0 0 .625 208.17 -435.73)">
+     transform="matrix(.83333 0 0 .625 208.17 -435.73)"
+     id="west-active-tab-left">
     <rect
-       class="ColorScheme-Background"
-       transform="scale(-1,1)"
+       style="opacity:0.2"
+       id="rect79"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="916.36"
        x="-19"
-       y="916.36"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect79" />
+       transform="scale(-1,1)"
+       class="ColorScheme-Background" />
   </g>
   <g
-     id="west-active-tab-right"
-     transform="matrix(.83333 0 0 .625 209.5 -435.73)">
+     transform="matrix(.83333 0 0 .625 209.5 -435.73)"
+     id="west-active-tab-right">
     <rect
-       class="ColorScheme-Background"
-       x="51"
-       y="916.36"
-       width="6"
-       height="32"
-       fill="#fff"
+       style="opacity:0.2"
+       id="rect82"
        opacity=".15"
-       id="rect82" />
+       fill="#fff"
+       height="32"
+       width="6"
+       y="916.36"
+       x="51"
+       class="ColorScheme-Background" />
   </g>
   <rect
-     id="west-active-tab-center"
-     class="ColorScheme-Background"
-     x="225"
+     style="opacity:0.2"
+     opacity=".15"
+     fill="#fff"
+     height="20"
+     width="26"
      y="137"
-     width="26"
-     height="20"
-     fill="#fff"
-     opacity=".15" />
-  <rect
-     id="west-focus-hint-right-margin"
-     transform="scale(-1)"
-     x="-257"
-     y="-148"
-     width="5"
-     height="2"
-     fill="#4e9a06" />
-  <rect
-     id="west-focus-hint-left-margin"
-     transform="scale(-1)"
-     x="-224"
-     y="-148"
-     width="5"
-     height="2"
-     fill="#4e9a06" />
-  <rect
-     id="west-focus-hint-bottom-margin"
-     transform="scale(-1)"
-     x="-239"
-     y="-163"
-     width="2"
-     height="5"
-     fill="#4e9a06" />
-  <rect
-     id="west-focus-hint-top-margin"
-     transform="scale(-1)"
-     x="-239"
-     y="-136"
-     width="2"
-     height="5"
-     fill="#4e9a06" />
-  <g
-     id="east-active-tab-top"
-     transform="matrix(.8125 0 0 .83333 373.56 -629.63)">
-    <rect
-       class="ColorScheme-Background"
-       transform="matrix(0,-1,-1,0,0,0)"
-       x="-916.36"
-       y="-51"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect90" />
-  </g>
-  <g
-     id="east-active-tab-topleft"
-     transform="matrix(.41667 0 0 .41667 377.58 -250.32)">
-    <path
-       d="m25 910.36c-6.648 0-12 5.352-12 12h12v-10z"
-       fill="#fff"
-       opacity=".15"
-       id="path93" />
-  </g>
-  <g
-     id="east-active-tab-topright"
-     transform="matrix(.41667 0 0 .41667 397.25 -250.32)">
-    <path
-       d="m45 910.36v12h12c0-6.648-5.352-12-12-12z"
-       fill="#fff"
-       opacity=".15"
-       id="path96" />
-  </g>
-  <g
-     id="east-active-tab-bottom"
-     transform="matrix(.8125 0 0 .83334 373.56 -634.3)">
-    <rect
-       class="ColorScheme-Background"
-       transform="rotate(90)"
-       x="948.36"
-       y="-51"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect99" />
-  </g>
-  <g
-     id="east-active-tab-bottomleft"
-     transform="matrix(.41667 0 0 .41667 377.58 -236.66)">
-    <path
-       d="m13 942.36c0 6.648 5.352 12 12 12v-12h-10z"
-       fill="#fff"
-       opacity=".15"
-       id="path102" />
-  </g>
-  <g
-     id="east-active-tab-bottomright"
-     transform="matrix(.41667 0 0 .41667 397.25 -236.66)">
-    <path
-       d="m45 942.36v12c6.648 0 12-5.352 12-12h-10z"
-       fill="#fff"
-       opacity=".15"
-       id="path105" />
-  </g>
-  <g
-     id="east-active-tab-left"
-     transform="matrix(.83333 0 0 .625 372.17 -437.72)">
-    <rect
-       class="ColorScheme-Background"
-       transform="scale(-1,1)"
-       x="-19"
-       y="916.36"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect108" />
-  </g>
-  <g
-     id="east-active-tab-right"
-     transform="matrix(.83333 0 0 .625 373.5 -437.72)">
-    <rect
-       class="ColorScheme-Background"
-       x="51"
-       y="916.36"
-       width="6"
-       height="32"
-       fill="#fff"
-       opacity=".15"
-       id="rect111" />
-  </g>
-  <rect
-     id="east-active-tab-center"
+     x="225"
      class="ColorScheme-Background"
-     x="389"
-     y="135"
-     width="26"
-     height="20"
+     id="west-active-tab-center" />
+  <rect
+     fill="#4e9a06"
+     height="2"
+     width="5"
+     y="-148"
+     x="-257"
+     transform="scale(-1)"
+     id="west-focus-hint-right-margin" />
+  <rect
+     fill="#4e9a06"
+     height="2"
+     width="5"
+     y="-148"
+     x="-224"
+     transform="scale(-1)"
+     id="west-focus-hint-left-margin" />
+  <rect
+     fill="#4e9a06"
+     height="5"
+     width="2"
+     y="-163"
+     x="-239"
+     transform="scale(-1)"
+     id="west-focus-hint-bottom-margin" />
+  <rect
+     fill="#4e9a06"
+     height="5"
+     width="2"
+     y="-136"
+     x="-239"
+     transform="scale(-1)"
+     id="west-focus-hint-top-margin" />
+  <g
+     transform="matrix(.8125 0 0 .83333 373.56 -629.63)"
+     id="east-active-tab-top">
+    <rect
+       style="opacity:0.2"
+       id="rect90"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="-51"
+       x="-916.36"
+       transform="matrix(0,-1,-1,0,0,0)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(.41667 0 0 .41667 377.58 -250.32)"
+     id="east-active-tab-topleft">
+    <path
+       style="opacity:0.2"
+       id="path93"
+       opacity=".15"
+       fill="#fff"
+       d="m25 910.36c-6.648 0-12 5.352-12 12h12v-10z" />
+  </g>
+  <g
+     transform="matrix(.41667 0 0 .41667 397.25 -250.32)"
+     id="east-active-tab-topright">
+    <path
+       style="opacity:0.2"
+       id="path96"
+       opacity=".15"
+       fill="#fff"
+       d="m45 910.36v12h12c0-6.648-5.352-12-12-12z" />
+  </g>
+  <g
+     transform="matrix(.8125 0 0 .83334 373.56 -634.3)"
+     id="east-active-tab-bottom">
+    <rect
+       style="opacity:0.2"
+       id="rect99"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="-51"
+       x="948.36"
+       transform="rotate(90)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(.41667 0 0 .41667 377.58 -236.66)"
+     id="east-active-tab-bottomleft">
+    <path
+       style="opacity:0.2"
+       id="path102"
+       opacity=".15"
+       fill="#fff"
+       d="m13 942.36c0 6.648 5.352 12 12 12v-12h-10z" />
+  </g>
+  <g
+     transform="matrix(.41667 0 0 .41667 397.25 -236.66)"
+     id="east-active-tab-bottomright">
+    <path
+       style="opacity:0.2"
+       id="path105"
+       opacity=".15"
+       fill="#fff"
+       d="m45 942.36v12c6.648 0 12-5.352 12-12h-10z" />
+  </g>
+  <g
+     transform="matrix(.83333 0 0 .625 372.17 -437.72)"
+     id="east-active-tab-left">
+    <rect
+       style="opacity:0.2"
+       id="rect108"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="916.36"
+       x="-19"
+       transform="scale(-1,1)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(.83333 0 0 .625 373.5 -437.72)"
+     id="east-active-tab-right">
+    <rect
+       style="opacity:0.2"
+       id="rect111"
+       opacity=".15"
+       fill="#fff"
+       height="32"
+       width="6"
+       y="916.36"
+       x="51"
+       class="ColorScheme-Background" />
+  </g>
+  <rect
+     style="opacity:0.2"
+     opacity=".15"
      fill="#fff"
-     opacity=".15" />
+     height="20"
+     width="26"
+     y="135"
+     x="389"
+     class="ColorScheme-Background"
+     id="east-active-tab-center" />
   <rect
-     id="east-focus-hint-right-margin"
-     transform="scale(-1)"
+     fill="#4e9a06"
+     height="2"
+     width="5"
+     y="-146"
      x="-421"
-     y="-146"
-     width="5"
-     height="2"
-     fill="#4e9a06" />
-  <rect
-     id="east-focus-hint-left-margin"
      transform="scale(-1)"
+     id="east-focus-hint-right-margin" />
+  <rect
+     fill="#4e9a06"
+     height="2"
+     width="5"
+     y="-146"
      x="-388"
-     y="-146"
-     width="5"
-     height="2"
-     fill="#4e9a06" />
-  <rect
-     id="east-focus-hint-bottom-margin"
      transform="scale(-1)"
-     x="-403"
+     id="east-focus-hint-left-margin" />
+  <rect
+     fill="#4e9a06"
+     height="5"
+     width="2"
      y="-161"
-     width="2"
-     height="5"
-     fill="#4e9a06" />
-  <rect
-     id="east-focus-hint-top-margin"
-     transform="scale(-1)"
      x="-403"
-     y="-134"
-     width="2"
+     transform="scale(-1)"
+     id="east-focus-hint-bottom-margin" />
+  <rect
+     fill="#4e9a06"
      height="5"
-     fill="#4e9a06" />
+     width="2"
+     y="-134"
+     x="-403"
+     transform="scale(-1)"
+     id="east-focus-hint-top-margin" />
 </svg>
