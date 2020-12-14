@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="tooltip.svg"
    id="svg202"
    viewBox="0 0 173 56"
@@ -31,14 +31,14 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="svg202"
      inkscape:window-maximized="1"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="29.172427"
      inkscape:cx="59.404886"
      inkscape:zoom="9.5152868"
      showgrid="true"
      id="namedview204"
-     inkscape:window-height="970"
+     inkscape:window-height="998"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -396,7 +396,7 @@
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
-       style="color:#eff0f1;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        id="rect4152"
        width="6"
        height="32"
@@ -410,7 +410,7 @@
        id="rect4159"
        transform="translate(-19,904.36219)"
        d="M 38 6 C 34.676 6 32 8.676 32 12 L 32 18 L 44 18 L 44 6 L 38 6 z "
-       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2" />
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2" />
   </g>
   <g
      transform="matrix(0.62500095,0,0,2.0000038,32.124961,-1858.728)"
@@ -422,7 +422,7 @@
        height="32"
        width="6"
        id="rect4148"
-       style="color:#eff0f1;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        transform="rotate(90)" />
   </g>
   <g
@@ -435,7 +435,7 @@
        height="32"
        width="5.9999995"
        id="rect4144"
-       style="color:#eff0f1;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        transform="scale(-1,1)" />
   </g>
   <g
@@ -443,7 +443,7 @@
      id="right">
     <rect
        class="ColorScheme-Background"
-       style="color:#eff0f1;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        id="rect4140"
        width="5.9999995"
        height="32"
@@ -451,7 +451,7 @@
        y="916.36218" />
   </g>
   <rect
-     style="color:#eff0f1;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62499976"
+     style="color:#eff0f1;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62499976"
      id="center"
      width="19.999992"
      height="19.999992"

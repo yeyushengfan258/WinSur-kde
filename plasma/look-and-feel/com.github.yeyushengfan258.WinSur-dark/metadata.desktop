@@ -17,5 +17,5 @@ X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/WinSur-dark-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1373641,kns://plasma-themes.knsrc/api.kde-look.org/1373645,kns://aurorae.knsrc/api.kde-look.org/1373642,kns://icons.knsrc/api.kde-look.org/1348081,kns://wallpaper.knsrc/api.kde-look.org/1400964,kns://sddmtheme.knsrc/api.kde-look.org/1373643,kns://xcursor.knsrc/api.kde-look.org/1423341
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1373641,kns://plasma-themes.knsrc/api.kde-look.org/1373645,kns://aurorae.knsrc/api.kde-look.org/1373642,kns://icons.knsrc/api.kde-look.org/1440037,kns://wallpaper.knsrc/api.kde-look.org/1400964,kns://sddmtheme.knsrc/api.kde-look.org/1373643,kns://xcursor.knsrc/api.kde-look.org/1423341
 X-Plasma-MainScript=defaults
