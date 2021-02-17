@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=WinSur-light-alt
+Comment=WinSur-light-alt theme for kde plasma
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=yeyushengfan258
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=yeyushengfan258@aliyun.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=com.github.yeyushengfan258.WinSur-light
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/WinSur-light-kde
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1373213,kns://plasma-themes.knsrc/api.kde-look.org/1450250,kns://aurorae.knsrc/api.kde-look.org/1373215,kns://icons.knsrc/api.kde-look.org/1440037,kns://wallpaper.knsrc/api.kde-look.org/1373212,kns://sddmtheme.knsrc/api.kde-look.org/1373216,kns://xcursor.knsrc/api.kde-look.org/1381566
+X-Plasma-MainScript=defaults

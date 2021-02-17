@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="phone.svg"
+   version="1.1"
+   viewBox="0 0 22 22">
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview26"
+     bordercolor="#666666"
+     borderopacity="1"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:current-layer="svg"
+     inkscape:cx="-13.328354"
+     inkscape:cy="32.318917"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="1007"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1920"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:zoom="5.2693538"
+     objecttolerance="10"
+     pagecolor="#c8c8c8"
+     showgrid="true">
+    <inkscape:grid
+       id="grid835"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs81">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+    <style
+       id="current-color-scheme-9"
+       type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+    <style
+       id="current-color-scheme-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+  <g
+     id="22-22-phone">
+    <rect
+       id="rect836"
+       x="6"
+       y="2"
+       width="10"
+       height="18"
+       rx="1"
+       ry="1"
+       style="opacity:0.25;fill:#323232;fill-opacity:1" />
+    <path
+       style="opacity:0"
+       id="path15"
+       d="M 0,0 H 22 V 22 H 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect834"
+       d="M 7,1 C 5.892,1 5,1.892 5,3 v 16 c 0,1.108 0.892,2 2,2 h 8 c 1.108,0 2,-0.892 2,-2 V 3 C 17,1.892 16.108,1 15,1 H 9 Z m 0,1 h 1 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 h 1 c 0.554,0 1,0.446 1,1 v 16 c 0,0.554 -0.446,1 -1,1 H 7 C 6.446,20 6,19.554 6,19 V 3 C 6,2.446 6.446,2 7,2 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#323232;fill-opacity:1" />
+    <path
+       id="rect844"
+       d="m 8.5,18 h 5 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -5 C 8.223,19 8,18.777 8,18.5 8,18.223 8.223,18 8.5,18 Z"
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#323232;fill-opacity:1" />
+  </g>
+  <g
+     id="16-16-phone">
+    <path
+       id="rect872"
+       d="m 5,27 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 29 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 6 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 H 5 C 4.446,40 4,39.554 4,39 V 29 c 0,-0.554 0.446,-1 1,-1 z"
+       inkscape:connector-curvature="0"
+       style="fill:#323232;fill-opacity:1" />
+    <rect
+       id="rect874"
+       x="4"
+       y="28"
+       width="8"
+       height="12"
+       rx="1"
+       ry="1"
+       style="opacity:0.25;fill:#323232;fill-opacity:1" />
+    <rect
+       style="opacity:0"
+       x="0"
+       id="rect10"
+       y="26"
+       width="16"
+       height="16"
+       rx="0"
+       ry="0" />
+    <rect
+       id="rect882"
+       x="6"
+       y="27"
+       width="4"
+       height="2"
+       rx="1"
+       ry="1"
+       style="fill:#323232;fill-opacity:1" />
+    <path
+       id="rect884"
+       d="m 6.6375,38 h 2.7251 c 0.35315,0 0.63746,0.223 0.63746,0.5 0,0.277 -0.28431,0.5 -0.63746,0.5 H 6.6375 C 6.28435,39 6.00004,38.777 6.00004,38.5 6.00004,38.223 6.28435,38 6.6375,38 Z"
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#323232;fill-opacity:1" />
+  </g>
+  <g
+     id="phone">
+    <path
+       id="rect894"
+       d="m 10,-31 c -1.108,0 -2,0.892 -2,2 v 22 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -22 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 12 c 0.554,0 1,0.446 1,1 v 22 c 0,0.554 -0.446,1 -1,1 H 10 C 9.446,-6 9,-6.446 9,-7 v -22 c 0,-0.554 0.446,-1 1,-1 z"
+       inkscape:connector-curvature="0"
+       style="fill:#323232;fill-opacity:1" />
+    <rect
+       id="rect896"
+       x="9"
+       y="-30"
+       width="14"
+       height="24"
+       rx="0"
+       ry="1"
+       style="opacity:0.25;fill:#323232;fill-opacity:1" />
+    <rect
+       style="opacity:0"
+       x="0"
+       id="rect5"
+       y="-34"
+       width="32"
+       height="32"
+       rx="0"
+       ry="0" />
+    <rect
+       id="rect903"
+       x="13"
+       y="-31"
+       width="6"
+       height="2"
+       rx="1"
+       ry="1"
+       style="fill:#323232;fill-opacity:1" />
+    <rect
+       id="rect905"
+       x="12"
+       y="-8"
+       width="8"
+       height="1"
+       rx="0.537"
+       ry="1"
+       style="opacity:0.5;fill:#323232;fill-opacity:1" />
+  </g>
+  <g
+     id="phone-battery">
+    <path
+       id="path897"
+       d="m 47,-31 c -1.108,0 -2,0.892 -2,2 v 22 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -22 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 12 c 0.554,0 1,0.446 1,1 v 22 c 0,0.554 -0.446,1 -1,1 H 47 c -0.554,0 -1,-0.446 -1,-1 v -22 c 0,-0.554 0.446,-1 1,-1 z"
+       inkscape:connector-curvature="0"
+       style="fill:#323232;fill-opacity:1" />
+    <rect
+       id="rect899"
+       x="46"
+       y="-30"
+       width="14"
+       height="24"
+       rx="0"
+       ry="1"
+       style="opacity:0.25;fill:#323232;fill-opacity:1" />
+    <rect
+       style="opacity:0"
+       id="rect901"
+       x="37"
+       y="-34"
+       width="32"
+       height="32"
+       rx="0"
+       ry="0" />
+    <rect
+       id="rect904"
+       x="50"
+       y="-31"
+       width="6"
+       height="2"
+       rx="1"
+       ry="1"
+       style="fill:#323232;fill-opacity:1" />
+    <rect
+       id="rect906"
+       x="49"
+       y="-8"
+       width="8"
+       height="1"
+       rx="0.537"
+       ry="1"
+       style="opacity:0.5;fill:#323232;fill-opacity:1" />
+    <g
+       id="g4600"
+       transform="rotate(-90,-121.98,269.52)">
+      <path
+         id="path4472"
+         transform="translate(214.54,404.5)"
+         d="m -48,37 a 3,3 0 0 0 -2.826,2 H -52 v 2 h 1.176 A 3,3 0 0 0 -48,43 v -1 h 2 v -1 h -2 v -2 h 2 v -1 h -2 z"
+         inkscape:connector-curvature="0"
+         style="fill:#3278ff;fill-opacity:1" />
+    </g>
+  </g>
+  <g
+     id="22-22-phone-battery">
+    <rect
+       id="rect875"
+       x="43"
+       y="2"
+       width="10"
+       height="18"
+       rx="1"
+       ry="1"
+       style="opacity:0.25;fill:#323232;fill-opacity:1" />
+    <path
+       style="opacity:0"
+       id="path877"
+       d="M 37,0 H 59 V 22 H 37 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path879"
+       d="m 44,1 c -1.108,0 -2,0.892 -2,2 v 16 c 0,1.108 0.892,2 2,2 h 8 c 1.108,0 2,-0.892 2,-2 V 3 C 54,1.892 53.108,1 52,1 h -6 z m 0,1 h 1 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 h 1 c 0.554,0 1,0.446 1,1 v 16 c 0,0.554 -0.446,1 -1,1 h -8 c -0.554,0 -1,-0.446 -1,-1 V 3 c 0,-0.554 0.446,-1 1,-1 z"
+       inkscape:connector-curvature="0"
+       style="fill:#323232;fill-opacity:1" />
+    <path
+       id="path881"
+       d="m 45.5,18 h 5 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -5 C 45.223,19 45,18.777 45,18.5 45,18.223 45.223,18 45.5,18 Z"
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#323232;fill-opacity:1" />
+    <path
+       id="path4600"
+       d="m 45,10 a 3,3 0 0 0 2,2.826 V 14 h 2 V 12.824 A 3,3 0 0 0 51,10 H 50 V 8 h -1 v 2 H 47 V 8 h -1 v 2 z"
+       inkscape:connector-curvature="0"
+       style="fill:#3278ff;fill-opacity:1" />
+  </g>
+  <g
+     id="16-16-phone-battery">
+    <path
+       id="path885"
+       d="m 42,27 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 29 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 6 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 V 29 c 0,-0.554 0.446,-1 1,-1 z"
+       inkscape:connector-curvature="0"
+       style="fill:#323232;fill-opacity:1" />
+    <rect
+       id="rect887"
+       x="41"
+       y="28"
+       width="8"
+       height="12"
+       rx="1"
+       ry="1"
+       style="opacity:0.25;fill:#323232;fill-opacity:1" />
+    <rect
+       style="opacity:0"
+       id="rect889"
+       x="37"
+       y="26"
+       width="16"
+       height="16"
+       rx="0"
+       ry="0" />
+    <rect
+       id="rect891"
+       x="43"
+       y="27"
+       width="4"
+       height="2"
+       rx="1"
+       ry="1"
+       style="fill:#323232;fill-opacity:1" />
+    <path
+       id="path893"
+       d="m 43.637,38 h 2.7251 c 0.35315,0 0.63746,0.223 0.63746,0.5 0,0.277 -0.28431,0.5 -0.63746,0.5 H 43.637 c -0.35315,0 -0.63746,-0.223 -0.63746,-0.5 0,-0.277 0.28431,-0.5 0.63746,-0.5 z"
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#323232;fill-opacity:1" />
+    <path
+       id="path936"
+       d="m 42,33 a 3,3 0 0 0 2,2.826 V 37 h 2 V 35.824 A 3,3 0 0 0 48,33 h -1 v -2 h -1 v 2 h -2 v -2 h -1 v 2 z"
+       inkscape:connector-curvature="0"
+       style="fill:#3278ff;fill-opacity:1" />
+  </g>
+</svg>

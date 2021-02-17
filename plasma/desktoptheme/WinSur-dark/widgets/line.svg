@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="line.svg"
    id="svg21"
    version="1.0"
@@ -21,21 +21,21 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
      inkscape:current-layer="svg21"
      inkscape:window-maximized="1"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="22.5"
-     inkscape:cx="23.638889"
-     inkscape:zoom="14.4"
+     inkscape:cy="39.169506"
+     inkscape:cx="8.3087968"
+     inkscape:zoom="28.8"
      showgrid="false"
      id="namedview23"
-     inkscape:window-height="1048"
+     inkscape:window-height="998"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -44,7 +44,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#505050" />
+     pagecolor="#505050"
+     inkscape:document-rotation="0" />
   <defs
      id="defs3">
     <style
@@ -99,7 +100,7 @@
        fill-opacity="0.1"
        id="path7" />
     <path
-       style="fill:#ffffff"
+       style="fill:#000000;fill-opacity:1;opacity:0.3"
        class="ColorScheme-Text"
        d="m 33.969,13.594 v 40 h 1 v -40 z"
        color="#31363b"
@@ -125,7 +126,7 @@
        fill-opacity="0.1"
        id="path14" />
     <path
-       style="fill:#ffffff"
+       style="fill:#000000;fill-opacity:1;opacity:0.3"
        class="ColorScheme-Text"
        d="m 75.691,56.529 h -40 v 1 h 40 z"
        color="#31363b"

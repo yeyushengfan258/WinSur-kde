@@ -1,6 +1,6 @@
-## WinSur-dark KDE Theme
+## WinSur KDE Theme
 
-WinSur-dark kde is a light clean theme for KDE Plasma desktop.
+WinSur kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
