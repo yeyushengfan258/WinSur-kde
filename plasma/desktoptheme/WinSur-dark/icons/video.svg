@@ -13,7 +13,7 @@
    sodipodi:docname="video.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#c8c8c8"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -22,12 +22,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="960"
+     inkscape:window-height="942"
      id="namedview86"
      showgrid="true"
      inkscape:zoom="9.0113636"
-     inkscape:cx="12.647868"
-     inkscape:cy="-15.151982"
+     inkscape:cx="3.2752078"
+     inkscape:cy="-1.5858115"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
@@ -35,7 +35,8 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid913" />
@@ -115,7 +116,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
