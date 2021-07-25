@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="phone.svg"
    version="1.1"
    viewBox="0 0 22 22">
@@ -31,19 +31,20 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg"
-     inkscape:cx="-13.328354"
-     inkscape:cy="32.318917"
+     inkscape:cx="40.615711"
+     inkscape:cy="27.150118"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-height="1007"
+     inkscape:window-height="992"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="5.2693538"
+     inkscape:zoom="14.903983"
      objecttolerance="10"
      pagecolor="#c8c8c8"
-     showgrid="true">
+     showgrid="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        id="grid835"
        type="xygrid" />
@@ -95,245 +96,200 @@
       </style>
   </defs>
   <g
-     id="22-22-phone">
+     id="22-22-phone"
+     transform="translate(-355,-534.36218)">
     <rect
-       id="rect836"
-       x="6"
-       y="2"
-       width="10"
-       height="18"
-       rx="1"
-       ry="1"
-       style="opacity:0.25;fill:#323232;fill-opacity:1" />
-    <path
-       style="opacity:0"
-       id="path15"
-       d="M 0,0 H 22 V 22 H 0 Z"
-       inkscape:connector-curvature="0" />
-    <path
-       id="rect834"
-       d="M 7,1 C 5.892,1 5,1.892 5,3 v 16 c 0,1.108 0.892,2 2,2 h 8 c 1.108,0 2,-0.892 2,-2 V 3 C 17,1.892 16.108,1 15,1 H 9 Z m 0,1 h 1 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 h 1 c 0.554,0 1,0.446 1,1 v 16 c 0,0.554 -0.446,1 -1,1 H 7 C 6.446,20 6,19.554 6,19 V 3 C 6,2.446 6.446,2 7,2 Z"
-       inkscape:connector-curvature="0"
-       style="fill:#323232;fill-opacity:1" />
-    <path
-       id="rect844"
-       d="m 8.5,18 h 5 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -5 C 8.223,19 8,18.777 8,18.5 8,18.223 8.223,18 8.5,18 Z"
-       inkscape:connector-curvature="0"
-       style="opacity:0.5;fill:#323232;fill-opacity:1" />
-  </g>
-  <g
-     id="16-16-phone">
-    <path
-       id="rect872"
-       d="m 5,27 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 29 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 6 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 H 5 C 4.446,40 4,39.554 4,39 V 29 c 0,-0.554 0.446,-1 1,-1 z"
-       inkscape:connector-curvature="0"
-       style="fill:#323232;fill-opacity:1" />
-    <rect
-       id="rect874"
-       x="4"
-       y="28"
-       width="8"
-       height="12"
-       rx="1"
-       ry="1"
-       style="opacity:0.25;fill:#323232;fill-opacity:1" />
-    <rect
-       style="opacity:0"
-       x="0"
-       id="rect10"
-       y="26"
-       width="16"
-       height="16"
-       rx="0"
-       ry="0" />
-    <rect
-       id="rect882"
-       x="6"
-       y="27"
-       width="4"
-       height="2"
-       rx="1"
-       ry="1"
-       style="fill:#323232;fill-opacity:1" />
-    <path
-       id="rect884"
-       d="m 6.6375,38 h 2.7251 c 0.35315,0 0.63746,0.223 0.63746,0.5 0,0.277 -0.28431,0.5 -0.63746,0.5 H 6.6375 C 6.28435,39 6.00004,38.777 6.00004,38.5 6.00004,38.223 6.28435,38 6.6375,38 Z"
-       inkscape:connector-curvature="0"
-       style="opacity:0.5;fill:#323232;fill-opacity:1" />
-  </g>
-  <g
-     id="phone">
-    <path
-       id="rect894"
-       d="m 10,-31 c -1.108,0 -2,0.892 -2,2 v 22 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -22 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 12 c 0.554,0 1,0.446 1,1 v 22 c 0,0.554 -0.446,1 -1,1 H 10 C 9.446,-6 9,-6.446 9,-7 v -22 c 0,-0.554 0.446,-1 1,-1 z"
-       inkscape:connector-curvature="0"
-       style="fill:#323232;fill-opacity:1" />
-    <rect
-       id="rect896"
-       x="9"
-       y="-30"
-       width="14"
-       height="24"
-       rx="0"
-       ry="1"
-       style="opacity:0.25;fill:#323232;fill-opacity:1" />
-    <rect
-       style="opacity:0"
-       x="0"
-       id="rect5"
-       y="-34"
-       width="32"
-       height="32"
-       rx="0"
-       ry="0" />
-    <rect
-       id="rect903"
-       x="13"
-       y="-31"
-       width="6"
-       height="2"
-       rx="1"
-       ry="1"
-       style="fill:#323232;fill-opacity:1" />
-    <rect
-       id="rect905"
-       x="12"
-       y="-8"
-       width="8"
-       height="1"
-       rx="0.537"
-       ry="1"
-       style="opacity:0.5;fill:#323232;fill-opacity:1" />
-  </g>
-  <g
-     id="phone-battery">
-    <path
-       id="path897"
-       d="m 47,-31 c -1.108,0 -2,0.892 -2,2 v 22 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -22 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 12 c 0.554,0 1,0.446 1,1 v 22 c 0,0.554 -0.446,1 -1,1 H 47 c -0.554,0 -1,-0.446 -1,-1 v -22 c 0,-0.554 0.446,-1 1,-1 z"
-       inkscape:connector-curvature="0"
-       style="fill:#323232;fill-opacity:1" />
-    <rect
-       id="rect899"
-       x="46"
-       y="-30"
-       width="14"
-       height="24"
-       rx="0"
-       ry="1"
-       style="opacity:0.25;fill:#323232;fill-opacity:1" />
-    <rect
-       style="opacity:0"
-       id="rect901"
-       x="37"
-       y="-34"
-       width="32"
-       height="32"
-       rx="0"
-       ry="0" />
-    <rect
-       id="rect904"
-       x="50"
-       y="-31"
-       width="6"
-       height="2"
-       rx="1"
-       ry="1"
-       style="fill:#323232;fill-opacity:1" />
-    <rect
-       id="rect906"
-       x="49"
-       y="-8"
-       width="8"
-       height="1"
-       rx="0.537"
-       ry="1"
-       style="opacity:0.5;fill:#323232;fill-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.138587;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4444"
+       width="22"
+       height="22"
+       x="355"
+       y="534.36218" />
     <g
-       id="g4600"
-       transform="rotate(-90,-121.98,269.52)">
+       id="g875"
+       transform="translate(-18)">
       <path
-         id="path4472"
-         transform="translate(214.54,404.5)"
-         d="m -48,37 a 3,3 0 0 0 -2.826,2 H -52 v 2 h 1.176 A 3,3 0 0 0 -48,43 v -1 h 2 v -1 h -2 v -2 h 2 v -1 h -2 z"
-         inkscape:connector-curvature="0"
-         style="fill:#3278ff;fill-opacity:1" />
+         id="rect861"
+         style="fill:#fefefe;stroke-width:2.27711"
+         d="m 59,6.9999826 c -1.108,0 -2,0.892 -2,2 V 22.999983 c 0,1.10799 0.892,2 2,2 h 8 c 1.108,0 2,-0.89201 2,-2 V 8.9999826 c 0,-1.108 -0.892,-2 -2,-2 z m 1,2 h 6 c 0.55398,0 1,0.44601 1,1 V 21.999983 c 0,0.55399 -0.44602,1 -1,1 h -6 c -0.55399,0 -1,-0.44601 -1,-1 V 9.9999826 c 0,-0.55399 0.44601,-1 1,-1 z"
+         transform="translate(321,529.36218)"
+         sodipodi:nodetypes="ssssssssssssssssss" />
+      <rect
+         style="fill:#fefefe;stroke-width:1.63299"
+         id="rect871"
+         width="4"
+         height="2"
+         x="382"
+         y="549.36218"
+         ry="0.99997997" />
+    </g>
+  </g>
+  <g
+     id="phone"
+     transform="translate(-326,-563.36218)">
+    <rect
+       y="529.36218"
+       x="321"
+       height="32"
+       width="32"
+       id="rect4436"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g908">
+      <path
+         id="rect897"
+         style="fill:#fefefe;stroke-width:2.12132"
+         d="M 9,2 C 7.89201,2 7,2.89201 7,4 v 24 c 0,1.10799 0.89201,2 2,2 h 14 c 1.10799,0 2,-0.89201 2,-2 V 4 C 25,2.89201 24.10799,2 23,2 Z m 1,2 h 12 c 0.55399,0 1,0.44601 1,1 v 22 c 0,0.55399 -0.44601,1 -1,1 H 10 C 9.44601,28 9,27.55399 9,27 V 5 C 9,4.44601 9.44601,4 10,4 Z"
+         transform="translate(321,529.36218)" />
+      <rect
+         style="fill:#fefefe;stroke-width:2"
+         id="rect904-7"
+         width="6"
+         height="2"
+         x="334"
+         y="553.36218"
+         ry="0.99999738" />
+    </g>
+  </g>
+  <g
+     id="16-16-phone"
+     transform="translate(-300,-511.36218)">
+    <rect
+       y="537.36218"
+       x="303"
+       height="16"
+       width="16"
+       id="rect4442"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.10079;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g933">
+      <path
+         id="rect920"
+         style="fill:#fefefe;stroke-width:2"
+         d="m -13,9 c -1.10799,0 -2,0.89201 -2,2 v 10 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 V 11 C -5,9.89201 -5.89201,9 -7,9 Z m 1,2 h 4 c 0.55399,0 1,0.44601 1,1 v 8 c 0,0.55399 -0.44601,1 -1,1 h -4 c -0.55399,0 -1,-0.44601 -1,-1 v -8 c 0,-0.55399 0.44601,-1 1,-1 z"
+         transform="translate(321,529.36218)" />
+      <rect
+         style="fill:#fefefe;stroke-width:2"
+         id="rect929"
+         width="2"
+         height="1"
+         x="310"
+         y="548.36218"
+         ry="0.5" />
     </g>
   </g>
   <g
      id="22-22-phone-battery">
     <rect
-       id="rect875"
-       x="43"
-       y="2"
-       width="10"
-       height="18"
-       rx="1"
-       ry="1"
-       style="opacity:0.25;fill:#323232;fill-opacity:1" />
-    <path
-       style="opacity:0"
-       id="path877"
-       d="M 37,0 H 59 V 22 H 37 Z"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path879"
-       d="m 44,1 c -1.108,0 -2,0.892 -2,2 v 16 c 0,1.108 0.892,2 2,2 h 8 c 1.108,0 2,-0.892 2,-2 V 3 C 54,1.892 53.108,1 52,1 h -6 z m 0,1 h 1 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 h 1 c 0.554,0 1,0.446 1,1 v 16 c 0,0.554 -0.446,1 -1,1 h -8 c -0.554,0 -1,-0.446 -1,-1 V 3 c 0,-0.554 0.446,-1 1,-1 z"
-       inkscape:connector-curvature="0"
-       style="fill:#323232;fill-opacity:1" />
-    <path
-       id="path881"
-       d="m 45.5,18 h 5 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -5 C 45.223,19 45,18.777 45,18.5 45,18.223 45.223,18 45.5,18 Z"
-       inkscape:connector-curvature="0"
-       style="opacity:0.5;fill:#323232;fill-opacity:1" />
-    <path
-       id="path4600"
-       d="m 45,10 a 3,3 0 0 0 2,2.826 V 14 h 2 V 12.824 A 3,3 0 0 0 51,10 H 50 V 8 h -1 v 2 H 47 V 8 h -1 v 2 z"
-       inkscape:connector-curvature="0"
-       style="fill:#3278ff;fill-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.138587;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect988"
+       width="22"
+       height="22"
+       x="37"
+       y="2.6171874e-06" />
+    <g
+       id="g1058">
+      <path
+         id="path4600"
+         d="m 45,10 a 3,3 0 0 0 2,2.826 V 14 h 2 V 12.824 A 3,3 0 0 0 51,10 H 50 V 8 h -1 v 2 H 47 V 8 h -1 v 2 z"
+         fill="#4caf50"
+         inkscape:connector-curvature="0"
+         style="fill:#3278ff;fill-opacity:1" />
+      <g
+         id="g994"
+         transform="translate(-336,-534.36218)">
+        <path
+           id="path990"
+           style="fill:#fefefe;stroke-width:2.27711"
+           d="m 59,6.9999826 c -1.108,0 -2,0.892 -2,2 V 22.999983 c 0,1.10799 0.892,2 2,2 h 8 c 1.108,0 2,-0.89201 2,-2 V 8.9999826 c 0,-1.108 -0.892,-2 -2,-2 z m 1,2 h 6 c 0.55398,0 1,0.44601 1,1 V 21.999983 c 0,0.55399 -0.44602,1 -1,1 h -6 c -0.55399,0 -1,-0.44601 -1,-1 V 9.9999826 c 0,-0.55399 0.44601,-1 1,-1 z"
+           transform="translate(321,529.36218)"
+           sodipodi:nodetypes="ssssssssssssssssss" />
+        <rect
+           style="fill:#fefefe;stroke-width:1.63299"
+           id="rect992"
+           width="4"
+           height="2"
+           x="382"
+           y="549.36218"
+           ry="0.99997997" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="phone-battery">
+    <rect
+       y="-33.999996"
+       x="37"
+       height="32"
+       width="32"
+       id="rect998"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g1034">
+      <g
+         id="g4600"
+         transform="rotate(-90,-121.98,269.52)">
+        <path
+           id="path4472"
+           transform="translate(214.54,404.5)"
+           d="m -48,37 a 3,3 0 0 0 -2.826,2 H -52 v 2 h 1.176 A 3,3 0 0 0 -48,43 v -1 h 2 v -1 h -2 v -2 h 2 v -1 h -2 z"
+           fill="#4caf50"
+           inkscape:connector-curvature="0"
+           style="fill:#3278ff;fill-opacity:1" />
+      </g>
+      <g
+         id="g1004"
+         transform="translate(-284,-563.36218)">
+        <path
+           id="path1000"
+           style="fill:#fefefe;stroke-width:2.12132"
+           d="M 9,2 C 7.89201,2 7,2.89201 7,4 v 24 c 0,1.10799 0.89201,2 2,2 h 14 c 1.10799,0 2,-0.89201 2,-2 V 4 C 25,2.89201 24.10799,2 23,2 Z m 1,2 h 12 c 0.55399,0 1,0.44601 1,1 v 22 c 0,0.55399 -0.44601,1 -1,1 H 10 C 9.44601,28 9,27.55399 9,27 V 5 C 9,4.44601 9.44601,4 10,4 Z"
+           transform="translate(321,529.36218)" />
+        <rect
+           style="fill:#fefefe;stroke-width:2"
+           id="rect1002"
+           width="6"
+           height="2"
+           x="334"
+           y="553.36218"
+           ry="0.99999738" />
+      </g>
+    </g>
   </g>
   <g
      id="16-16-phone-battery">
-    <path
-       id="path885"
-       d="m 42,27 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 29 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 6 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 V 29 c 0,-0.554 0.446,-1 1,-1 z"
-       inkscape:connector-curvature="0"
-       style="fill:#323232;fill-opacity:1" />
     <rect
-       id="rect887"
-       x="41"
-       y="28"
-       width="8"
-       height="12"
-       rx="1"
-       ry="1"
-       style="opacity:0.25;fill:#323232;fill-opacity:1" />
-    <rect
-       style="opacity:0"
-       id="rect889"
+       y="26.000002"
        x="37"
-       y="26"
-       width="16"
        height="16"
-       rx="0"
-       ry="0" />
-    <rect
-       id="rect891"
-       x="43"
-       y="27"
-       width="4"
-       height="2"
-       rx="1"
-       ry="1"
-       style="fill:#323232;fill-opacity:1" />
-    <path
-       id="path893"
-       d="m 43.637,38 h 2.7251 c 0.35315,0 0.63746,0.223 0.63746,0.5 0,0.277 -0.28431,0.5 -0.63746,0.5 H 43.637 c -0.35315,0 -0.63746,-0.223 -0.63746,-0.5 0,-0.277 0.28431,-0.5 0.63746,-0.5 z"
-       inkscape:connector-curvature="0"
-       style="opacity:0.5;fill:#323232;fill-opacity:1" />
-    <path
-       id="path936"
-       d="m 42,33 a 3,3 0 0 0 2,2.826 V 37 h 2 V 35.824 A 3,3 0 0 0 48,33 h -1 v -2 h -1 v 2 h -2 v -2 h -1 v 2 z"
-       inkscape:connector-curvature="0"
-       style="fill:#3278ff;fill-opacity:1" />
+       width="16"
+       id="rect1008"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.10079;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g1082">
+      <path
+         id="path936"
+         d="m 43,33.333333 a 2,2 0 0 0 1.333333,1.884 V 36 h 1.333334 V 35.216 A 2,2 0 0 0 47,33.333333 H 46.333333 V 32 h -0.666666 v 1.333333 H 44.333333 V 32 h -0.666666 v 1.333333 z"
+         fill="#4caf50"
+         inkscape:connector-curvature="0"
+         style="fill:#3278ff;fill-opacity:1;stroke-width:0.666667" />
+      <g
+         id="g1014"
+         transform="translate(-266,-511.36218)">
+        <path
+           id="path1010"
+           style="fill:#fefefe;stroke-width:2"
+           d="m -13,9 c -1.10799,0 -2,0.89201 -2,2 v 10 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 V 11 C -5,9.89201 -5.89201,9 -7,9 Z m 1,2 h 4 c 0.55399,0 1,0.44601 1,1 v 8 c 0,0.55399 -0.44601,1 -1,1 h -4 c -0.55399,0 -1,-0.44601 -1,-1 v -8 c 0,-0.55399 0.44601,-1 1,-1 z"
+           transform="translate(321,529.36218)" />
+        <rect
+           style="fill:#fefefe;stroke-width:2"
+           id="rect1012"
+           width="2"
+           height="1"
+           x="310"
+           y="548.36218"
+           ry="0.5" />
+      </g>
+    </g>
   </g>
 </svg>
