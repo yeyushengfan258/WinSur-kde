@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg"
    version="1.1"
    viewBox="0 0 22 22"
    sodipodi:docname="video.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#c8c8c8"
      bordercolor="#666666"
@@ -22,21 +22,22 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="992"
+     inkscape:window-height="963"
      id="namedview86"
      showgrid="true"
-     inkscape:zoom="6.2273607"
-     inkscape:cx="6.9194157"
-     inkscape:cy="-20.772147"
+     inkscape:zoom="35.227272"
+     inkscape:cx="8.5019357"
+     inkscape:cy="-13.909678"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg"
      inkscape:document-rotation="0"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid870" />
@@ -294,7 +295,8 @@
       <path
          id="path952"
          style="color:#31363b;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.26827px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M -23.800782,-13 -29.8,-6 H -13 l -5.999218,-7 z" />
+         d="M 7.7421875 -13 L 2.5996094 -7 L 19.400391 -7 L 14.257812 -13 L 7.7421875 -13 z "
+         transform="translate(-32.4)" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.05409"
