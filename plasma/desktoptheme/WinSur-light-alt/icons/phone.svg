@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    id="svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="phone.svg"
    version="1.1"
    viewBox="0 0 22 22"
@@ -31,15 +31,15 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg"
-     inkscape:cx="-19.927559"
-     inkscape:cy="22.275924"
+     inkscape:cx="32.407444"
+     inkscape:cy="4.0257695"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-height="954"
+     inkscape:window-height="1005"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="40"
+     inkscape:window-y="0"
      inkscape:zoom="7.4519915"
      objecttolerance="10"
      pagecolor="#c8c8c8"
@@ -97,33 +97,87 @@
       </style>
   </defs>
   <g
+     id="22-22-phone-battery">
+    <g
+       id="g1270"
+       transform="translate(-318,-534.36218)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.138587;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1266"
+         width="22"
+         height="22"
+         x="355"
+         y="534.36218" />
+      <path
+         id="path1268"
+         style="fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         d="m 362,536.36216 c -1.10799,0 -2,0.89201 -2,2 v 14 c 0,1.10799 0.89201,2 2,2 h 8 c 1.10799,0 2,-0.89201 2,-2 v -14 c 0,-1.10799 -0.89201,-2 -2,-2 z m 3,12 h 2 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -2 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
+         sodipodi:nodetypes="ssssssssssssssss" />
+    </g>
+    <path
+       id="path4600"
+       d="m 45,9 a 3,3 0 0 0 2,2.826 V 13 h 2 V 11.824 A 3,3 0 0 0 51,9 H 50 V 7 H 49 V 9 H 47 V 7 h -1 v 2 z"
+       fill="#4caf50"
+       inkscape:connector-curvature="0"
+       style="fill:#3278ff;fill-opacity:1" />
+  </g>
+  <g
+     id="phone-battery">
+    <rect
+       y="-33.999996"
+       x="37"
+       height="32"
+       width="32"
+       id="rect1272"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1274"
+       style="fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 46,-32 c -1.108,0 -2,0.892 -2,2 v 24 c 0,1.108 0.892,2 2,2 h 14 c 1.108,0 2,-0.892 2,-2 v -24 c 0,-1.108 -0.892,-2 -2,-2 z m 5,22 h 4 c 0.55399,0 1,0.44601 1,1 0,0.554 -0.44601,1 -1,1 h -4 c -0.55399,0 -1,-0.446 -1,-1 0,-0.55399 0.44601,-1 1,-1 z"
+       sodipodi:nodetypes="ssssssssssssssss" />
+    <path
+       id="path4472"
+       d="m 50,-19 a 3,3 0 0 0 2,2.826 V -15 h 2 v -1.176 A 3,3 0 0 0 56,-19 h -1 v -2 h -1 v 2 h -2 v -2 h -1 v 2 z"
+       fill="#4caf50"
+       inkscape:connector-curvature="0"
+       style="fill:#3278ff;fill-opacity:1" />
+  </g>
+  <g
+     id="16-16-phone-battery">
+    <rect
+       y="25.000023"
+       x="37"
+       height="16"
+       width="16"
+       id="rect1278"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.10079;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1280"
+       style="fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 42,26 c -1.10799,0 -2,0.89201 -2,2 v 10 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 V 28 c 0,-1.10799 -0.89201,-2 -2,-2 z m 2,10 h 2 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -2 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 z"
+       sodipodi:nodetypes="ssssssssssssssss" />
+    <path
+       id="path936"
+       d="m 43,32.333333 a 2,2 0 0 0 1.333333,1.884 V 35 h 1.333334 V 34.216 A 2,2 0 0 0 47,32.333333 H 46.333333 V 31 h -0.666666 v 1.333333 H 44.333333 V 31 h -0.666666 v 1.333333 z"
+       fill="#4caf50"
+       inkscape:connector-curvature="0"
+       style="fill:#3278ff;fill-opacity:1;stroke-width:0.666667" />
+  </g>
+  <g
      id="22-22-phone"
      transform="translate(-355,-534.36218)">
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.138587;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4444"
+       id="rect4444-3"
        width="22"
        height="22"
        x="355"
        y="534.36218" />
-    <g
-       id="g875"
-       transform="translate(-18)">
-      <path
-         id="rect861"
-         style="fill:#323232;stroke-width:2.27711;fill-opacity:1"
-         d="m 59,6.9999826 c -1.108,0 -2,0.892 -2,2 V 22.999983 c 0,1.10799 0.892,2 2,2 h 8 c 1.108,0 2,-0.89201 2,-2 V 8.9999826 c 0,-1.108 -0.892,-2 -2,-2 z m 1,2 h 6 c 0.55398,0 1,0.44601 1,1 V 21.999983 c 0,0.55399 -0.44602,1 -1,1 h -6 c -0.55399,0 -1,-0.44601 -1,-1 V 9.9999826 c 0,-0.55399 0.44601,-1 1,-1 z"
-         transform="translate(321,529.36218)"
-         sodipodi:nodetypes="ssssssssssssssssss" />
-      <rect
-         style="fill:#323232;stroke-width:1.63299;fill-opacity:1"
-         id="rect871"
-         width="4"
-         height="2"
-         x="382"
-         y="549.36218"
-         ry="0.99997997" />
-    </g>
+    <path
+       id="rect1019"
+       style="fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 362,536.36216 c -1.10799,0 -2,0.89201 -2,2 v 14 c 0,1.10799 0.89201,2 2,2 h 8 c 1.10799,0 2,-0.89201 2,-2 v -14 c 0,-1.10799 -0.89201,-2 -2,-2 z m 3,12 h 2 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -2 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
+       sodipodi:nodetypes="ssssssssssssssss" />
   </g>
   <g
      id="phone"
@@ -133,164 +187,28 @@
        x="321"
        height="32"
        width="32"
-       id="rect4436"
+       id="rect4436-6"
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <g
-       id="g908">
-      <path
-         id="rect897"
-         style="fill:#323232;stroke-width:2.12132;fill-opacity:1"
-         d="M 9,2 C 7.89201,2 7,2.89201 7,4 v 24 c 0,1.10799 0.89201,2 2,2 h 14 c 1.10799,0 2,-0.89201 2,-2 V 4 C 25,2.89201 24.10799,2 23,2 Z m 1,2 h 12 c 0.55399,0 1,0.44601 1,1 v 22 c 0,0.55399 -0.44601,1 -1,1 H 10 C 9.44601,28 9,27.55399 9,27 V 5 C 9,4.44601 9.44601,4 10,4 Z"
-         transform="translate(321,529.36218)" />
-      <rect
-         style="fill:#323232;stroke-width:2;fill-opacity:1"
-         id="rect904-7"
-         width="6"
-         height="2"
-         x="334"
-         y="553.36218"
-         ry="0.99999738" />
-    </g>
+    <path
+       id="rect1368"
+       style="fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 330,531.36218 c -1.108,0 -2,0.892 -2,2 v 24 c 0,1.108 0.892,2 2,2 h 14 c 1.108,0 2,-0.892 2,-2 v -24 c 0,-1.108 -0.892,-2 -2,-2 z m 5,22 h 4 c 0.55399,0 1,0.44601 1,1 0,0.554 -0.44601,1 -1,1 h -4 c -0.55399,0 -1,-0.446 -1,-1 0,-0.55399 0.44601,-1 1,-1 z"
+       sodipodi:nodetypes="ssssssssssssssss" />
   </g>
   <g
      id="16-16-phone"
-     transform="translate(-300,-511.36218)">
+     transform="translate(-300,-512.36216)">
     <rect
        y="537.36218"
        x="303"
        height="16"
        width="16"
-       id="rect4442"
+       id="rect4442-7"
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.10079;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <g
-       id="g933">
-      <path
-         id="rect920"
-         style="fill:#323232;stroke-width:2;fill-opacity:1"
-         d="m -13,9 c -1.10799,0 -2,0.89201 -2,2 v 10 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 V 11 C -5,9.89201 -5.89201,9 -7,9 Z m 1,2 h 4 c 0.55399,0 1,0.44601 1,1 v 8 c 0,0.55399 -0.44601,1 -1,1 h -4 c -0.55399,0 -1,-0.44601 -1,-1 v -8 c 0,-0.55399 0.44601,-1 1,-1 z"
-         transform="translate(321,529.36218)" />
-      <rect
-         style="fill:#323232;stroke-width:2;fill-opacity:1"
-         id="rect929"
-         width="2"
-         height="1"
-         x="310"
-         y="548.36218"
-         ry="0.5" />
-    </g>
-  </g>
-  <g
-     id="22-22-phone-battery">
-    <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.138587;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect988"
-       width="22"
-       height="22"
-       x="37"
-       y="2.6171874e-06" />
-    <g
-       id="g1058">
-      <path
-         id="path4600"
-         d="m 45,10 a 3,3 0 0 0 2,2.826 V 14 h 2 V 12.824 A 3,3 0 0 0 51,10 H 50 V 8 h -1 v 2 H 47 V 8 h -1 v 2 z"
-         fill="#4caf50"
-         inkscape:connector-curvature="0"
-         style="fill:#3278ff;fill-opacity:1" />
-      <g
-         id="g994"
-         transform="translate(-336,-534.36218)">
-        <path
-           id="path990"
-           style="fill:#323232;stroke-width:2.27711;fill-opacity:1"
-           d="m 59,6.9999826 c -1.108,0 -2,0.892 -2,2 V 22.999983 c 0,1.10799 0.892,2 2,2 h 8 c 1.108,0 2,-0.89201 2,-2 V 8.9999826 c 0,-1.108 -0.892,-2 -2,-2 z m 1,2 h 6 c 0.55398,0 1,0.44601 1,1 V 21.999983 c 0,0.55399 -0.44602,1 -1,1 h -6 c -0.55399,0 -1,-0.44601 -1,-1 V 9.9999826 c 0,-0.55399 0.44601,-1 1,-1 z"
-           transform="translate(321,529.36218)"
-           sodipodi:nodetypes="ssssssssssssssssss" />
-        <rect
-           style="fill:#323232;stroke-width:1.63299;fill-opacity:1"
-           id="rect992"
-           width="4"
-           height="2"
-           x="382"
-           y="549.36218"
-           ry="0.99997997" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="phone-battery">
-    <rect
-       y="-33.999996"
-       x="37"
-       height="32"
-       width="32"
-       id="rect998"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <g
-       id="g1034">
-      <g
-         id="g4600"
-         transform="rotate(-90,-121.98,269.52)">
-        <path
-           id="path4472"
-           transform="translate(214.54,404.5)"
-           d="m -48,37 a 3,3 0 0 0 -2.826,2 H -52 v 2 h 1.176 A 3,3 0 0 0 -48,43 v -1 h 2 v -1 h -2 v -2 h 2 v -1 h -2 z"
-           fill="#4caf50"
-           inkscape:connector-curvature="0"
-           style="fill:#3278ff;fill-opacity:1" />
-      </g>
-      <g
-         id="g1004"
-         transform="translate(-284,-563.36218)">
-        <path
-           id="path1000"
-           style="fill:#323232;stroke-width:2.12132;fill-opacity:1"
-           d="M 9,2 C 7.89201,2 7,2.89201 7,4 v 24 c 0,1.10799 0.89201,2 2,2 h 14 c 1.10799,0 2,-0.89201 2,-2 V 4 C 25,2.89201 24.10799,2 23,2 Z m 1,2 h 12 c 0.55399,0 1,0.44601 1,1 v 22 c 0,0.55399 -0.44601,1 -1,1 H 10 C 9.44601,28 9,27.55399 9,27 V 5 C 9,4.44601 9.44601,4 10,4 Z"
-           transform="translate(321,529.36218)" />
-        <rect
-           style="fill:#323232;stroke-width:2;fill-opacity:1"
-           id="rect1002"
-           width="6"
-           height="2"
-           x="334"
-           y="553.36218"
-           ry="0.99999738" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="16-16-phone-battery">
-    <rect
-       y="26.000002"
-       x="37"
-       height="16"
-       width="16"
-       id="rect1008"
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.10079;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <g
-       id="g1082">
-      <path
-         id="path936"
-         d="m 43,33.333333 a 2,2 0 0 0 1.333333,1.884 V 36 h 1.333334 V 35.216 A 2,2 0 0 0 47,33.333333 H 46.333333 V 32 h -0.666666 v 1.333333 H 44.333333 V 32 h -0.666666 v 1.333333 z"
-         fill="#4caf50"
-         inkscape:connector-curvature="0"
-         style="fill:#3278ff;fill-opacity:1;stroke-width:0.666667" />
-      <g
-         id="g1014"
-         transform="translate(-266,-511.36218)">
-        <path
-           id="path1010"
-           style="fill:#323232;stroke-width:2;fill-opacity:1"
-           d="m -13,9 c -1.10799,0 -2,0.89201 -2,2 v 10 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 V 11 C -5,9.89201 -5.89201,9 -7,9 Z m 1,2 h 4 c 0.55399,0 1,0.44601 1,1 v 8 c 0,0.55399 -0.44601,1 -1,1 h -4 c -0.55399,0 -1,-0.44601 -1,-1 v -8 c 0,-0.55399 0.44601,-1 1,-1 z"
-           transform="translate(321,529.36218)" />
-        <rect
-           style="fill:#323232;stroke-width:2;fill-opacity:1"
-           id="rect1012"
-           width="2"
-           height="1"
-           x="310"
-           y="548.36218"
-           ry="0.5" />
-      </g>
-    </g>
+    <path
+       id="rect1615"
+       style="fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 308,538.36216 c -1.10799,0 -2,0.89201 -2,2 v 10 c 0,1.10799 0.89201,2 2,2 h 6 c 1.10799,0 2,-0.89201 2,-2 v -10 c 0,-1.10799 -0.89201,-2 -2,-2 z m 2,10 h 2 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -2 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 z"
+       sodipodi:nodetypes="ssssssssssssssss" />
   </g>
 </svg>
