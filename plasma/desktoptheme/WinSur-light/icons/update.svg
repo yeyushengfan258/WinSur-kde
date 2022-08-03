@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#329632"
+     pagecolor="#fafafa"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -40,8 +40,8 @@
      id="namedview21"
      showgrid="true"
      inkscape:zoom="7.4519915"
-     inkscape:cx="29.236298"
-     inkscape:cy="36.131331"
+     inkscape:cx="21.969881"
+     inkscape:cy="38.506834"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,7 +59,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }
+   .ColorScheme-Text { color:#000000; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#000000; }
   </style>
   </defs>
   <g
@@ -70,19 +70,19 @@
        height="22"
        width="22"
        id="rect817-1-0"
-       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
     <g
        id="g899"
        transform="translate(0,-22.525125)">
       <path
          id="path874"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:2.76923;stroke-linecap:round"
+         style="fill:#000000;fill-opacity:1;stroke-width:2.76923;stroke-linecap:round"
          d="m 10.990234,24.525126 a 9,9 0 0 0 -8.990234,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 9,9 0 0 0 -0.0098,0 z m -0.08398,2 a 7,7 0 0 1 0.09375,0 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 6.90625,-7 z" />
       <g
          id="g891"
          transform="translate(-6.4142133,-15.978922)">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+           style="fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round"
            id="rect885"
            width="5"
            height="2"
@@ -91,7 +91,7 @@
            ry="0.95119798"
            transform="rotate(45)" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:2.68328;stroke-linecap:round"
+           style="fill:#000000;fill-opacity:1;stroke-width:2.68328;stroke-linecap:round"
            id="rect887"
            width="9"
            height="2"
@@ -110,19 +110,19 @@
        height="22"
        width="22"
        id="rect928"
-       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
     <g
        id="g931"
        transform="translate(35,-25)">
       <path
          id="path893"
-         style="fill:#969696;fill-opacity:1;stroke-width:2.76923;stroke-linecap:round"
+         style="fill:#a0a0a0;fill-opacity:1;stroke-width:2.76923;stroke-linecap:round"
          d="m 10.990234,27.000001 a 9,9 0 0 0 -8.990234,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 9,9 0 0 0 -0.0098,0 z m -0.08398,2 a 7,7 0 0 1 0.09375,0 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 6.90625,-7 z" />
       <g
          id="g924"
          transform="translate(2.8443407e-7,-16)">
         <rect
-           style="fill:#969696;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+           style="fill:#a0a0a0;fill-opacity:1;stroke-width:2;stroke-linecap:round"
            id="rect915"
            width="5"
            height="2"
@@ -131,7 +131,7 @@
            ry="0.95119798"
            transform="rotate(-45)" />
         <rect
-           style="fill:#969696;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+           style="fill:#a0a0a0;fill-opacity:1;stroke-width:2;stroke-linecap:round"
            id="rect917"
            width="5"
            height="2"
@@ -140,7 +140,7 @@
            ry="0.95119798"
            transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
         <rect
-           style="fill:#969696;fill-opacity:1;stroke-width:2.68328;stroke-linecap:round"
+           style="fill:#a0a0a0;fill-opacity:1;stroke-width:2.68328;stroke-linecap:round"
            id="rect919"
            width="9"
            height="2"
@@ -159,19 +159,19 @@
        height="22"
        width="22"
        id="rect988"
-       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
     <g
        id="g943"
        transform="translate(35,3.9999997)">
       <path
          id="path933"
-         style="fill:#c8c8c8;fill-opacity:1;stroke-width:2.76923;stroke-linecap:round"
+         style="fill:#6e6e6e;fill-opacity:1;stroke-width:2.76923;stroke-linecap:round"
          d="m 10.990234,27.000001 a 9,9 0 0 0 -8.990234,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 9,9 0 0 0 -0.0098,0 z m -0.08398,2 a 7,7 0 0 1 0.09375,0 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 6.90625,-7 z" />
       <g
          id="g941"
          transform="translate(2.8443407e-7,-16)">
         <rect
-           style="fill:#c8c8c8;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+           style="fill:#6e6e6e;fill-opacity:1;stroke-width:2;stroke-linecap:round"
            id="rect935"
            width="5"
            height="2"
@@ -180,7 +180,7 @@
            ry="0.95119798"
            transform="rotate(-45)" />
         <rect
-           style="fill:#c8c8c8;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+           style="fill:#6e6e6e;fill-opacity:1;stroke-width:2;stroke-linecap:round"
            id="rect937"
            width="5"
            height="2"
@@ -189,7 +189,7 @@
            ry="0.95119798"
            transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
         <rect
-           style="fill:#c8c8c8;fill-opacity:1;stroke-width:2.68328;stroke-linecap:round"
+           style="fill:#6e6e6e;fill-opacity:1;stroke-width:2.68328;stroke-linecap:round"
            id="rect939"
            width="9"
            height="2"
@@ -208,19 +208,19 @@
        height="22"
        width="22"
        id="rect999"
-       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
     <g
        id="g955"
        transform="translate(35,33)">
       <path
          id="path945"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:2.76923;stroke-linecap:round"
+         style="fill:#000000;fill-opacity:1;stroke-width:2.76923;stroke-linecap:round"
          d="m 10.990234,27.000001 a 9,9 0 0 0 -8.990234,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 9,9 0 0 0 -0.0098,0 z m -0.08398,2 a 7,7 0 0 1 0.09375,0 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 6.90625,-7 z" />
       <g
          id="g953"
          transform="translate(2.8443407e-7,-16)">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+           style="fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round"
            id="rect947"
            width="5"
            height="2"
@@ -229,7 +229,7 @@
            ry="0.95119798"
            transform="rotate(-45)" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+           style="fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round"
            id="rect949"
            width="5"
            height="2"
@@ -238,7 +238,7 @@
            ry="0.95119798"
            transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:2.68328;stroke-linecap:round"
+           style="fill:#000000;fill-opacity:1;stroke-width:2.68328;stroke-linecap:round"
            id="rect951"
            width="9"
            height="2"

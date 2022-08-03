@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="121"
    height="56"
    version="1.1"
    viewBox="0 0 121 56"
    id="svg177"
    sodipodi:docname="translucentbackground.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata181">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,17 +37,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="976"
+     inkscape:window-height="1002"
      id="namedview179"
      showgrid="false"
-     inkscape:zoom="10.074811"
-     inkscape:cx="80.703488"
-     inkscape:cy="24.375806"
+     inkscape:zoom="7.1239672"
+     inkscape:cx="40.005799"
+     inkscape:cy="24.003479"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg177"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#326464" />
   <defs
      id="defs30">
     <linearGradient
@@ -486,7 +489,7 @@
      id="top"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.2;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.5;fill:#ffffff;fill-opacity:1"
        id="rect42"
        height="32"
        width="6"
@@ -518,7 +521,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="color:#eff0f1;opacity:0.2;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.5;fill:#ffffff;fill-opacity:1"
        d="m 19,6 c -3.324,0 -6,2.676 -6,6 h 4 1 1 V 11 7 Z"
        transform="translate(0,904.36)"
        id="path55" />
@@ -527,7 +530,7 @@
      id="bottom"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.2;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.5;fill:#ffffff;fill-opacity:1"
        id="rect69"
        height="32"
        width="6"
@@ -548,7 +551,7 @@
      id="left"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.2;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.5;fill:#ffffff;fill-opacity:1"
        id="rect96"
        height="32"
        width="6"
@@ -569,7 +572,7 @@
      id="right"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.2;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.5;fill:#ffffff;fill-opacity:1"
        id="rect101"
        height="32"
        width="6"
@@ -595,7 +598,7 @@
        y="916.35999"
        x="19" />
     <rect
-       style="color:#eff0f1;opacity:0.2;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.5;fill:#ffffff;fill-opacity:1"
        id="rect108"
        height="32"
        width="32"

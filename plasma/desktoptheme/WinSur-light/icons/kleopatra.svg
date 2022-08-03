@@ -54,7 +54,7 @@
        id="grid938" />
   </sodipodi:namedview>
   <circle
-     style="fill:none;fill-rule:evenodd;stroke:#fbfbfb;stroke-width:1.99883;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99883;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
      id="path1306"
      cx="31.000002"
      cy="12.999998"
@@ -69,7 +69,7 @@
        x="0"
        y="-1.7382812e-05" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#fbfbfb;stroke-width:1.99972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path869"
        sodipodi:type="arc"
        sodipodi:cx="11"
@@ -82,7 +82,7 @@
        sodipodi:arc-type="arc"
        d="M 2.7533903,12 A 8.5375185,8.5375185 0 0 1 11,5.6721535 8.5375185,8.5375185 0 0 1 19.24661,11.999999" />
     <circle
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#000000;fill-rule:evenodd;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
        id="path848"
        cx="11"
        cy="13"

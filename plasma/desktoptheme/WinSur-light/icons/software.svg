@@ -57,7 +57,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }
+   .ColorScheme-Text { color:#000000; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#000000; }
   </style>
   </defs>
   <use
@@ -92,7 +92,7 @@
        height="22"
        width="22"
        id="rect817-1-0"
-       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
     <g
        id="g902"
        transform="translate(33.570614,0.77328057)">
@@ -137,7 +137,7 @@
        height="22"
        width="22"
        id="rect905"
-       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
     <g
        id="g926"
        transform="translate(72.570615,0.77328057)">
@@ -151,12 +151,12 @@
          sodipodi:cy="10.227299"
          sodipodi:cx="-22.700836"
          sodipodi:type="arc"
-         style="fill:none;stroke:#323232;stroke-width:1.99957;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:1.99957;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path920"
          d="m -17.750938,15.177197 a 7.0002136,7.0002136 0 0 1 -8.021771,1.3403 7.0002136,7.0002136 0 0 1 -3.875296,-7.1503353 7.0002136,7.0002136 0 0 1 5.50213,-5.9893049 7.0002136,7.0002136 0 0 1 7.452672,3.2562082" />
       <rect
          transform="rotate(15)"
-         style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:2.19089;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.19089;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect922"
          width="6"
          height="2"
@@ -171,7 +171,7 @@
          height="2"
          width="6"
          id="rect924"
-         style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:2.19089;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.19089;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <g
@@ -182,7 +182,7 @@
        height="22"
        width="22"
        id="rect997"
-       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
     <g
        id="g934"
        transform="translate(33.570614,25.77328)">
@@ -227,7 +227,7 @@
        height="22"
        width="22"
        id="rect1009"
-       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
     <g
        id="g942"
        transform="translate(33.570614,51.773281)">
@@ -272,7 +272,7 @@
        height="22"
        width="22"
        id="rect929"
-       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
     <g
        id="g986"
        transform="translate(72.570614,25.77328)">
@@ -317,7 +317,7 @@
        height="22"
        width="22"
        id="rect939"
-       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke-width:0.546348;stroke-linejoin:round;stroke-miterlimit:1.41421" />
     <g
        id="g1006"
        transform="translate(72.570614,51.773281)">

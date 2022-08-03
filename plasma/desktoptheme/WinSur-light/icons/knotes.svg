@@ -69,11 +69,11 @@
        transform="translate(26.000002)">
       <path
          id="rect4047"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          d="m -18,7 c -1.108,0 -2,0.892 -2,2 v 17 c 0,1.108 0.892,2 2,2 h 16 c 1.108,0 2,-0.892 2,-2 V 9 C 0,7.892 -0.892,7 -2,7 Z m 3,3 h 10 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m 0,4 h 10 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m 0,4 h 10 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m 0,4 h 10 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
          sodipodi:nodetypes="sssssssssssssssssssssssssssssssssssss" />
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.979796;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.979796;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect4397"
          width="12"
          height="4"
@@ -81,7 +81,7 @@
          y="6.000001"
          ry="1" />
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.1547;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.1547;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect4399"
          width="8"
          height="4"
@@ -105,12 +105,12 @@
        transform="translate(-23,1.000001)">
       <path
          id="rect2899"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          d="m 55,10 c -1.108,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 12 c 0,-1.108 -0.892,-2 -2,-2 z m 2,3.000001 h 6 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m 0,4 h 6 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m 0,4 h 6 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
          transform="translate(23,-1.000001)"
          sodipodi:nodetypes="ssssssssssssssssssssssssssssss" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect3207"
          width="6"
          height="3"
@@ -124,10 +124,10 @@
          height="3"
          width="8"
          id="rect3209"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
       <path
          id="rect3211"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          d="m 57,10 c -0.554,0 -1,0.446 -1,1 v 1 c 0,0.182796 0.04979,0.352862 0.134766,0.5 C 56.307317,12.201207 56.628796,12 57,12 h 6 c 0.371204,0 0.692683,0.201207 0.865234,0.5 C 63.950206,12.352862 64,12.182796 64,12 v -1 c 0,-0.554 -0.446,-1 -1,-1 z"
          transform="translate(23,-1.000001)" />
     </g>

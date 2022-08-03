@@ -130,7 +130,7 @@
        height="22"
        width="22" />
     <path
-       style="color:#dedede;fill:#ffffff;fill-opacity:1;stroke-width:0.019531;opacity:0.5"
+       style="color:#dedede;fill:#000000;fill-opacity:1;stroke-width:0.019531;opacity:0.5"
        inkscape:connector-curvature="0"
        id="path55"
        p-id="5683"
@@ -152,7 +152,7 @@
        p-id="5683"
        id="path1017"
        inkscape:connector-curvature="0"
-       style="color:#dedede;fill:#ffffff;fill-opacity:1;stroke-width:0.019531" />
+       style="color:#dedede;fill:#000000;fill-opacity:1;stroke-width:0.019531" />
   </g>
   <g
      id="16-16-preferences-system-bluetooth-inactive"
@@ -167,7 +167,7 @@
        id="rect1023"
        style="opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.43544865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     <path
-       style="color:#dedede;fill:#ffffff;fill-opacity:1;stroke-width:0.01765117;opacity:0.5"
+       style="color:#dedede;fill:#000000;fill-opacity:1;stroke-width:0.01765117;opacity:0.5"
        inkscape:connector-curvature="0"
        id="path1029"
        p-id="5683"
@@ -190,7 +190,7 @@
        p-id="5683"
        id="path1043"
        inkscape:connector-curvature="0"
-       style="color:#dedede;fill:#ffffff;fill-opacity:1;stroke-width:0.01765117" />
+       style="color:#dedede;fill:#000000;fill-opacity:1;stroke-width:0.01765117" />
   </g>
   <g
      id="preferences-system-bluetooth-activated"
@@ -204,7 +204,7 @@
        height="22"
        width="22" />
     <path
-       style="color:#dedede;fill:#ffffff;fill-opacity:1;stroke-width:0.019531"
+       style="color:#dedede;fill:#000000;fill-opacity:1;stroke-width:0.019531"
        inkscape:connector-curvature="0"
        id="path1109"
        p-id="5683"
@@ -247,7 +247,7 @@
        id="rect1140"
        style="opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.43544865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     <path
-       style="color:#dedede;fill:#ffffff;fill-opacity:1;stroke-width:0.01765117"
+       style="color:#dedede;fill:#000000;fill-opacity:1;stroke-width:0.01765117"
        inkscape:connector-curvature="0"
        id="path1142"
        p-id="5683"
@@ -281,7 +281,7 @@
      id="preferences-desktop-notification">
     <path
        id="path1239"
-       style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 36 1 A 10 10 0 0 0 26 11 A 10 10 0 0 0 36 21 A 10 10 0 0 0 46 11 A 10 10 0 0 0 36 1 z M 36 6 C 36.554 6 37 6.446 37 7 L 37 12 C 37 12.554 36.554 13 36 13 C 35.446 13 35 12.554 35 12 L 35 7 C 35 6.446 35.446 6 36 6 z M 36 14 A 1 1 0 0 1 37 15 A 1 1 0 0 1 36 16 A 1 1 0 0 1 35 15 A 1 1 0 0 1 36 14 z " />
     <rect
        style="color:#dedede;fill:#dedede;fill-opacity:0"
@@ -302,12 +302,12 @@
        y="0"
        style="color:#bebebe;opacity:0;stroke-width:2" />
     <path
-       style="color:#31363b;fill:#fbfbfb;fill-rule:evenodd;stroke-width:3;-inkscape-stroke:none;fill-opacity:1"
+       style="color:#31363b;fill:#000000;fill-rule:evenodd;stroke-width:3;-inkscape-stroke:none;fill-opacity:1"
        d="M 10.999996,13 4.999978,20 H 17.000022 Z"
        id="path1127" />
     <path
        id="rect1293"
-       style="fill:#fbfbfb;fill-opacity:1;stroke-width:1.05409"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.05409"
        d="M 3 4 C 1.892 4 1 4.892 1 6 L 1 15 C 1 16.108 1.892 17 3 17 L 5.5859375 17 L 5.6523438 16.933594 L 9.8613281 12.023438 L 11 10.695312 L 16.345703 16.931641 L 16.414062 17 L 19 17 C 20.108 17 21 16.108 21 15 L 21 6 C 21 4.892 20.108 4 19 4 L 3 4 z M 11 15.304688 L 9.546875 17 L 12.453125 17 L 11 15.304688 z " />
   </g>
 </svg>
