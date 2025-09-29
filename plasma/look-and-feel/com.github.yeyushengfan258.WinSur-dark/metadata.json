@@ -1,0 +1,34 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "yeyushengfan258@outlook.com",
+                "Name": "yeyushengfan258"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Description": "WinSur-dark theme for kde plasma",
+        "Id": "com.github.yeyushengfan258.WinSur-dark",
+        "License": "GPLv3",
+        "Name": "WinSur-dark",
+        "Website": "https://github.com/yeyushengfan258/WinSur-dark-kde"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-KDE-fallbackPackage": "org.kde.breeze.desktop",
+    "X-Plasma-MainScript": "defaults",
+    "X-Plasma-APIVersion": "2",
+    "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1373641",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1373645",
+        "kns://aurorae.knsrc/api.kde-look.org/1373642",
+        "kns://wallpaper.knsrc/api.kde-look.org/1400964",
+        "kns://sddmtheme.knsrc/api.kde-look.org/1373643",
+        "kns://icons.knsrc/api.kde-look.org/1546069",
+        "kns://xcursor.knsrc/api.kde-look.org/1423341"
+    ]
+}
